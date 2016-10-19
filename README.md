@@ -21,6 +21,7 @@ customer -- (order a meal)
 (order a meal)-->(choose Menu)
 
 (order a meal)-->(choose Menu Item)
+
 @enduml
 
 #2
