@@ -2,6 +2,19 @@
 
 ## Use Case Diagram (ภาษาไทย)
 ###ส่งการบ้าน
+#1
+![](http://www.plantuml.com/plantuml/img/SoWkIImgAStDuSf9JIjHACbNACfCpoXHICaiIaqkoSpFux8ABYbDISqhCRHIqDLLq0XAJKpHv8BIkhemMICh1Iw7rBmKe4a0)
+
+#Code
+@startuml
+
+left to right direction
+
+:Student1: -- (Read)
+
+ (Read)--:Student2: 
+ 
+@enduml
 
 #2
 
