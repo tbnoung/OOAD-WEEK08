@@ -2,6 +2,26 @@
 
 ## Use Case Diagram (ภาษาไทย)
 ###ส่งการบ้าน
+
+#2
+
+![](http://www.plantuml.com/plantuml/img/SoWkIImgAStDuR8ABKujibBGrLNGyCbFL_3Cq_SlBT545WvEBGd9ByXCBaOH3KfDJF5BBKSLT4uiIKrFBQf44VJBBybCoqnEBCdCpzFaSaZDIm7Q2m00)
+##Code
+
+@startuml
+
+:User: -- (Log In/Out)
+
+:User: -- (SetTopics)
+
+:User: -- (ReadNews)
+
+:User: -- (Categery)
+
+:User: -- (Notification)
+
+@enduml
+
 #3
 
 ![](http://www.plantuml.com/plantuml/img/XO-z2iCm48DtFyMDyP1N25a3xP8tk3Y26EnSyPrR-lPre4kWFvkGFWaqgd6ncfCBLKqo2lKzTLeN3IKk81EQSOzug3yZKjQcc38uUVUvqS21kh29AEWYWLEqvs_ublWWJkij-Eg_nw_Owv-O9aFsRiI-jhyl)
