@@ -4,7 +4,17 @@
 ###ส่งการบ้าน
 #1
 
-![](http://www.plantuml.com/plantuml/img/SoWkIImgAStDuIf8pLFGqjLLoCpBvd98pKi1YW40)
+![](http://www.plantuml.com/plantuml/img/XO-z2iCm48DtFyMDyP1N25a3xP8tk3Y26EnSyPrR-lPre4kWFvkGFWaqgd6ncfCBLKqo2lKzTLeN3IKk81EQSOzug3yZKjQcc38uUVUvqS21kh29AEWYWLEqvs_ublWWJkij-Eg_nw_Owv-O9aFsRiI-jhyl)
+#Code : 
+@startuml
+customer -- (subscribe to Reviews)
+customer -- (order a meal)
+(subscribe to Reviews) --> (choose Locality)
+(subscribe to Reviews) --> (play)
+(order a meal)-->(play)
+(order a meal)-->(choose Menu)
+(order a meal)-->(choose Menu Item)
+@enduml
 
 #2
 
