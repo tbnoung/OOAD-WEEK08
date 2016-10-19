@@ -2,8 +2,14 @@
 
 ## Use Case Diagram (ภาษาไทย)
 ###ส่งการบ้าน
+
+#1
+
 ![](http://www.plantuml.com/plantuml/img/SoWkIImgAStDuGh9ICpCISnBISj9J5VGqjLLA4fDKR1II4jCBialmfHDoYbDnIDTdf5PWYJla9gN0hG40000)
 
+#2
+
+![](http://www.plantuml.com/plantuml/img/SoWkIImgAStDuKhEpoqeBKajKj3IrLLGo4wjJCelIh5AIqmkoIz2bSpDpyi42YfOAK1bYmkAClFI5NHrjM3w4799fIKb-NdOvHnIyrA0LWC0)
 * บรรยายเรื่อง UML โดย อ.ปานใจ  
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/0eq2FGEQul8/0.jpg)](http://www.youtube.com/watch?v=0eq2FGEQul8 "บรรยายเรื่อง UML โดย อ.ปานใจ  " target="_blank") 
