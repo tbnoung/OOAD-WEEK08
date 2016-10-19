@@ -2,16 +2,23 @@
 
 ## Use Case Diagram (ภาษาไทย)
 ###ส่งการบ้าน
-
 #1
 
-![](http://www.plantuml.com/plantuml/img/SoWkIImgAStDuGh9ICpCISnBISj9J5VGqjLLA4fDKR1II4jCBialmfHDoYbDnIDTdf5PWYJla9gN0hG40000)
+![](http://www.plantuml.com/plantuml/img/SoWkIImgAStDuIf8pLFGqjLLoCpBvd98pKi1YW40)
 
 #2
 
-![](http://www.plantuml.com/plantuml/img/SoWkIImgAStDuKfFp4tDpKzALCZNrLLGoCZFGnL9oIz9D48Lyl7tGHNmBqijAayiISu02mS7kA69EgJcfG2j0W00)
+![](http://www.plantuml.com/plantuml/img/SoWkIImgAStDuNBEIImkBihFprN8rzLLA2ufJKdDAq4JBKbDJCv8BU9oICrB0Ue10000)
 
 #3
+
+![](http://www.plantuml.com/plantuml/img/SoWkIImgAStDuGh9ICpCISnBISj9J5VGqjLLA4fDKR1II4jCBialmfHDoYbDnIDTdf5PWYJla9gN0hG40000)
+
+#4
+
+![](http://www.plantuml.com/plantuml/img/SoWkIImgAStDuKfFp4tDpKzALCZNrLLGoCZFGnL9oIz9D48Lyl7tGHNmBqijAayiISu02mS7kA69EgJcfG2j0W00)
+
+#5
 
 ![](http://www.plantuml.com/plantuml/img/SoWkIImgAStDuKhEpoqeBKajKj3IrLLGo4wjJCelIh5AIqmkoIz2bSpDpyi42YfOAK1bYmkAClFI5NHrjM3w4799fIKb-NdOvHnIyrA0LWC0)
 
