@@ -57,7 +57,58 @@ rectangle {
 
 #3
 
-![](http://www.plantuml.com/plantuml/img/SoWkIImgAStDuGh9ICpCISnBISj9J5VGqjLLA4fDKR1II4jCBialmfHDoYbDnIDTdf5PWYJla9gN0hG40000)
+![](http://www.plantuml.com/plantuml/img/VLAx3eCm3Dpp5Hxfm0ymLA2Ygaj7r3abBbY4W19tglhlJH-KqA9CiNDdt-cItB6qVEsrO6ADSC8p5EEegPPCWn4QBmmyWAMcPL1aiNxTFqzf6Zzn4ydEecJSYAGQbUGMAeVMToLgP9owFHarrNgekwckJDXzLgNf5fAZDB9vpxkVvMjuABU6pmRMqDd4ghQ9udUH-U0SUVb2zMJ8iPKys0pI5Bxnn3YBv6B4HQWnOf1tZ1Q47_KNlb9sG3r2YQxxayhHAF-R7W00)
+##Code
+
+@startuml
+
+title Web Application
+
+left to right direction
+
+rectangle {
+
+(Create)
+
+(Updath User)
+
+(Delete User)
+
+(Find User)
+
+(lock User)
+
+(Unlock User)
+
+(Create)--> (Manage Users)
+
+(Updath User)--> (Manage Users)
+
+(Delete User)--> (Manage Users)
+
+(Find User)--> (Manage Users)
+
+(lock User)--> (Manage Users)
+
+(Unlock User)--> (Manage Users)
+
+}
+
+:Website Administrator: -- (Create)
+
+:Website Administrator: -- (Updath User)
+
+:Website Administrator: -- (Delete User)
+
+:Website Administrator: -- (Find User)
+
+:Website Administrator: -- (lock User)
+
+:Website Administrator: -- (Unlock User)
+
+:Help Desk: -- (Find User)
+
+@enduml
 
 #4
 
